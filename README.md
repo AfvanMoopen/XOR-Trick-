@@ -1,2 +1,3 @@
-# XOR-Trick-
-XOR 
+# NOTES 
+
+Necessary
